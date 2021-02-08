@@ -593,12 +593,13 @@ label {
     font-size: 22px;
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
+    margin: auto;
   }
 
   #first-section .first-section-p {
     font-size: 14px;
     text-align: center;
-    margin: 2rem 0;
+    margin: 2rem auto;
   }
 
   .first-section-info {
